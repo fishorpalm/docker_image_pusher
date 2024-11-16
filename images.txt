@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 centos:centos7
 python:3.9.19
+faucet/python3:12.0.1
