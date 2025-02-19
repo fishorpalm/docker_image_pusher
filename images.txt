@@ -8,4 +8,11 @@ centos:centos7
 python:3.9.19
 faucet/python3:12.0.1
 redis:6.2.13
-
+# ragflow
+elasticsearch:8.11.3
+infiniflow/infinity:v0.6.0-dev3
+mysql:8.0.39
+minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
+infiniflow/ragflow:v0.16.0-slim
+infiniflow/ragflow:v0.16.0
