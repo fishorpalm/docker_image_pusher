@@ -18,4 +18,5 @@
 #infiniflow/ragflow:v0.16.0
 #chernov/sybase:latest
 #ibmcom/db2:latest
-clickhouse/clickhouse-server:25.3.3.42
+#clickhouse/clickhouse-server:25.3.3.42
+oceanbase/oceanbase-ce:4.2.5-lts
