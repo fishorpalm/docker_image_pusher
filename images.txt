@@ -19,4 +19,12 @@
 #chernov/sybase:latest
 #ibmcom/db2:latest
 #clickhouse/clickhouse-server:25.3.3.42
-oceanbase/oceanbase-ce:4.2.5-lts
+#oceanbase/oceanbase-ce:4.2.5-lts
+pingcap/pd:v8.5.3
+pingcap/tikv:v8.5.3
+pingcap/tidb:v8.5.3
+pingcap/tispark:v2.1.1
+pingcap/tidb-vision:latest
+prom/pushgateway:v0.3.1
+prom/prometheus:v2.2.1
+grafana/grafana:6.0.1
