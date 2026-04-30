@@ -28,4 +28,5 @@
 #prom/pushgateway:v0.3.1
 #prom/prometheus:v2.2.1
 #grafana/grafana:6.0.1
-python:3.10.19
+#python:3.10.19
+flink:1.20.3-java8
